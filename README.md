@@ -20,4 +20,3 @@ At its core, SentinelHash relies on the **SHA-256 (Secure Hash Algorithm 256-bit
 * **Continuous Monitoring:** Implements an efficient `while` loop with sleep intervals to minimize CPU overhead while providing near real-time intrusion detection.
 * **Cloud-Native Deployment:** Designed to run headlessly on virtualized cloud nodes (e.g., AWS EC2, Azure VMs).
 
-## 💻 Quick Start (Linux
